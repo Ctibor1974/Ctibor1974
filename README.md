@@ -9,3 +9,9 @@ Ctibor1974/Ctibor1974 is a ✨ special ✨ repository because its `README.md` (t
 
 You can click the Preview link to take a look at your changes.
 --->
+https://platform.openai.com/docs/quickstart/developer-quickstart{
+  "model": "gpt-4",
+  "messages": [],
+  "temperature": 0,
+  "max_tokens": 2048
+}
